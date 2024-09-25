@@ -22,3 +22,9 @@ This project aims to manage and analyze digital marketing campaigns, track perfo
 
 ## Contributions
 Contributions are welcome! Please fork this repository and submit a pull request.
+## Add Project Structure
+├── Campaigns
+├── Analytics
+├── Content
+└── Scripts
+
